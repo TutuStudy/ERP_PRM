@@ -4,8 +4,8 @@ public interface Constants {
 
 
     String FORMID = "SAL_DELIVERYNOTICE";
-    String DBID = "20170913104009";
+    String DBID = "****************";
     String UID = "administrator";
-    String PWD = "yeelight.2017";
+    String PWD = "***************;
     Integer LANG = 2052;
 }
