@@ -1,0 +1,11 @@
+com\yeelight\erp\crm\service\CrmOrderProcessService.class
+com\yeelight\erp\crm\service\KingDeeTransferService.class
+com\yeelight\erp\crm\controller\HttpRequestSend.class
+com\yeelight\erp\crm\controller\HttpRequestSend$MapKeyComparator.class
+com\yeelight\erp\crm\utils\HttpClientToCRM.class
+com\yeelight\erp\crm\constants\Constants.class
+com\yeelight\erp\crm\controller\HelloController.class
+com\yeelight\erp\crm\Prm2erpApplication.class
+com\yeelight\erp\crm\utils\MyUntilClass.class
+com\yeelight\erp\crm\utils\InvokeHelper.class
+com\yeelight\erp\crm\utils\HttpURLConnectionTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.yeelight.erp.crm.Prm2erpApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.72 s - in com.yeelight.erp.crm.Prm2erpApplicationTests
