@@ -41,11 +41,11 @@ public class HttpClientToCRM {
         post.setHeader("Content-Type", "application/x-www-form-urlencoded;charset=gbk");
         List<NameValuePair> params = new ArrayList<NameValuePair>();
         params.add(new BasicNameValuePair("grant_type", "password"));
-        params.add(new BasicNameValuePair("client_id", "da20ab4fe759304705f983ee31308701"));
-        params.add(new BasicNameValuePair("client_secret", "255be38adb76838a6db454d0bbcf4b21"));
-        params.add(new BasicNameValuePair("redirect_uri", "http://yeelight.ik3cloud.com/K3cloud/"));
-        params.add(new BasicNameValuePair("username", "18353385998"));
-        params.add(new BasicNameValuePair("password", "jwp46540nHLGCYMj"));
+        params.add(new BasicNameValuePair("client_id", ""));
+        params.add(new BasicNameValuePair("client_secret", ""));
+        params.add(new BasicNameValuePair("redirect_uri", ""));
+        params.add(new BasicNameValuePair("username", ""));
+        params.add(new BasicNameValuePair("password", ""));
 
         try {
             UrlEncodedFormEntity entity = new UrlEncodedFormEntity(params);
